@@ -6,3 +6,5 @@ line 4
 
 line 5 feature
 line 6 feature
+
+line 7 feature
